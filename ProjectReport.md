@@ -30,12 +30,21 @@ In this task, for creating my Digital Literacy Awareness Infographic, I used CAN
 My infographic is designed as a student-friendly guide to digital literacy. It highlights key areas such as understanding what digital literacy means, using digital tools effectively, practicing safe internet habits, and maintaining proper email etiquette. I included sections explaining the importance of evaluating online information, communicating responsibly, and protecting personal data. Additionally, I showcased useful digital tools like Google Docs, CANVA, and video conferencing platforms, which are commonly used by students for academic purposes. The design uses visuals such as icons, charts, and illustrations to make the content more engaging and easier to understand.
 One aspect I found particularly interesting while creating the infographic was how design elements can influence understanding. Choosing the right colors, layout, and icons helped in making the information more attractive and easy to follow. However, I also faced some difficulty in balancing the amount of information and visual clarity. Initially, I tried to include too much content, which made the design look crowded. I had to carefully edit and simplify the content to ensure that the infographic remained clean, readable, and visually appealing. This experience taught me the importance of clarity and simplicity in digital communication.
  
+                    
+                     
+                     
+                     
                      Task 2: Digital Portfolio
 For my digital portfolio, I chose three important platforms: LinkedIn, GitHub, and KAGGLE. These platforms are widely used by students and professionals to build skills, showcase work, and connect with opportunities in the digital world.
 LinkedIn is mainly used for professional networking and personal branding. It allows users to create a profile that highlights their education, skills, and achievements. Through LinkedIn, I can connect with seniors, professors, and industry professionals, stay updated with job and internship opportunities, and share my learning progress. Over the next four years, I plan to regularly update my profile, add certifications, and build a strong professional network that will help me in my career.
 GitHub is a platform used for version control and collaboration in software development. It allows users to store, manage, and share their code repositories. I will use GitHub to upload my academic projects, practice coding, and collaborate with others on open-source projects. Over time, I aim to build a strong portfolio that demonstrates my technical skills and problem-solving abilities, which will be valuable during placements and internships.
 KAGGLE is a platform focused on data science and machine learning. It provides datasets, notebooks, and competitions that help users learn and practice data analysis. I plan to use KAGGLE to explore datasets, participate in competitions, and improve my skills in data visualization and machine learning. Over the next four years, I aim to actively engage with the community, learn from others’ work, and develop strong analytical skills that are in high demand in the industry.
 Overall, these platforms will help me grow academically and professionally, build a strong digital presence, and prepare for future career opportunities.
+                                 
+                                 
+                                 
+                                 
+                                 
                                  Task 3: Platforms
 For this task, I used two main platforms: HackerRank for coding practice and Google Forms for creating a collaborative quiz. These platforms helped me understand both technical problem-solving and digital collaboration, which are essential skills for students.
 On HackerRank, I completed a beginner-level problem called “Solve Me First” using Python. This exercise helped me understand the basic structure of a program, including taking user input, writing a function, and returning output. It also improved my logical thinking and problem-solving skills. Practising on HackerRank is very useful because it provides real-time feedback and helps in building coding confidence step by step. I plan to continue solving more problems to strengthen my programming skills.
@@ -43,6 +52,12 @@ For the second part, I created a Digital Literacy Awareness Quiz using Google Fo
 One of the most interesting parts of this task was creating the quiz and thinking from a user’s perspective. I had to make sure the questions were clear, relevant, and easy to understand. It also showed me how digital tools can be used to spread awareness and gather information efficiently.
 These platforms will help me academically in many ways. HackerRank will improve my coding skills, which are essential for exams, projects, and technical interviews. Google Forms will help me in conducting surveys, collecting feedback, and managing data for academic projects and presentations. Overall, this task enhanced both my technical and practical digital skills, which will be valuable throughout my academic journey.
  
+                  
+                   
+                   
+                   
+                   
+                   
                    Task 4: Email & Etiquette
 One situation where poor digital communication caused a serious problem is a hypothetical case involving a college student applying for a summer internship. The student sent an email to the company’s HR manager expressing interest in the position, but the email was poorly written. It had no clear subject line, used informal language like “Hey” instead of a professional greeting, and contained several spelling and grammatical errors. Additionally, the student did not properly introduce themselves or mention their qualifications, and the email ended abruptly without a formal closing.
 As a result, the HR manager did not take the application seriously and ignored the email. The student missed a valuable opportunity, not because of a lack of skills, but due to unprofessional communication. In today’s digital world, emails and online messages often create the first impression, and poor communication can negatively impact one’s credibility.
@@ -51,6 +66,11 @@ Furthermore, the email should have ended with a formal closing such as “Sincer
 Overall, this example shows that effective digital communication is just as important as technical skills. By being clear, polite, and professional in online communication, students can avoid misunderstandings and create a positive impression, increasing their chances of success in academic and professional opportunities.
 
 
+                               
+                               
+                               
+                               
+                               
                                Case Study: UPI / Online Payment Fraud
 UPI (Unified Payments Interface) fraud is a common form of cybercrime in India where attackers trick users into authorizing fraudulent transactions. It does not usually involve hacking; instead, it relies on social engineering to manipulate victims into sharing sensitive information or approving payments.
 A typical scenario begins when the fraudster contacts the victim through a phone call, SMS, or messaging app, pretending to be a bank official, delivery agent, or customer care representative. The attacker creates a sense of urgency, such as claiming that the user’s bank account will be blocked or that a refund needs to be processed. Next, the victim is asked to share their UPI ID, OTP, or click on a suspicious link. In many cases, the fraudster sends a “collect request” and instructs the victim to enter their UPI PIN, falsely claiming it is required to receive money. Once the victim enters the PIN, the money is instantly transferred from their account to the fraudster.
@@ -59,6 +79,11 @@ The consequences of UPI fraud can be severe. Victims may lose significant amount
 This case highlights the importance of awareness and cautious behavior while using digital payment platforms. Users should never share their OTP or UPI PIN with anyone and must verify the authenticity of calls and messages. They should also remember that receiving money does not require entering a PIN. In case of fraud, it is important to immediately report the incident to the National Cyber Crime Portal (cybercrime.gov.in) or call the helpline 1930.
 
  
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
                                                          Conclusion
 This Digital Literacy Project has been a valuable learning experience that helped me understand the importance of using digital tools effectively, safely, and responsibly. Through this project, I explored various platforms such as GitHub, LinkedIn, Kaggle, HackerRank, and Google Forms, which are essential for academic growth and future career development.
 Each task in this project contributed to building a different aspect of digital literacy. Creating the infographic improved my ability to present information visually and creatively. Developing my digital portfolio helped me establish a professional online presence. Practising coding and creating a quiz enhanced my technical and analytical skills, while the email etiquette task taught me how to communicate professionally in formal situations. The cybercrime case study increased my awareness of online threats and the importance of staying safe in the digital world.
